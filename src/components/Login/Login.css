@@ -46,6 +46,10 @@
     cursor: pointer;
 }
 
+.form-submit:hover {
+    background-color: rgba(255, 155, 0, 0.9);
+}
+
 .form-link {
     color: #FF9900;
     text-decoration: none;
@@ -70,6 +74,10 @@
     align-items: center;
     margin: 15px 0;
     cursor: pointer;
+}
+
+.form-google:hover {
+    border: 2px solid gray;
 }
 
 .form-icon {
