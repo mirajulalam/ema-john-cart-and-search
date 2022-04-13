@@ -1,0 +1,20 @@
+.reaview-item-container {
+    margin: 0 auto;
+}
+
+.btn-checkout {
+    background-color: #ff9900;
+    padding: 10px;
+    width: 210px;
+    border: none;
+    font-size: 18px;
+    border-radius: 5px;
+    color: white;
+    padding-right: 5px;
+    align-items: center;
+}
+
+.btn-checkout:hover {
+    background-color: tomato;
+    color: black;
+}
